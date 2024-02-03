@@ -1,1 +1,1 @@
-# Galeria-Saint-Seya
+# Galeria Saint Seya
