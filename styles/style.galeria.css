@@ -100,7 +100,7 @@ body{
  .galeria__container{
     display:flex;
     flex-wrap:wrap;
-    justify-content: space-evenly;
+    justify-content: space-around;
   
     gap:15px;
     
@@ -112,8 +112,8 @@ body{
     border: 5px solid #FFEA11;
     box-shadow: 2px 2px 2px #000000;
     flex-grow:0 ;
-    width:280px;
-    height: 380px;
+    width:180px;
+    height:280px;
 
 
 }
